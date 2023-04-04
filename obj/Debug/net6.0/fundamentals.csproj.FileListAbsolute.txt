@@ -1,0 +1,15 @@
+C:\Users\coding\C# stack\fundamentals\bin\Debug\net6.0\fundamentals.exe
+C:\Users\coding\C# stack\fundamentals\bin\Debug\net6.0\fundamentals.deps.json
+C:\Users\coding\C# stack\fundamentals\bin\Debug\net6.0\fundamentals.runtimeconfig.json
+C:\Users\coding\C# stack\fundamentals\bin\Debug\net6.0\fundamentals.dll
+C:\Users\coding\C# stack\fundamentals\bin\Debug\net6.0\fundamentals.pdb
+C:\Users\coding\C# stack\fundamentals\obj\Debug\net6.0\fundamentals.csproj.AssemblyReference.cache
+C:\Users\coding\C# stack\fundamentals\obj\Debug\net6.0\fundamentals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coding\C# stack\fundamentals\obj\Debug\net6.0\fundamentals.AssemblyInfoInputs.cache
+C:\Users\coding\C# stack\fundamentals\obj\Debug\net6.0\fundamentals.AssemblyInfo.cs
+C:\Users\coding\C# stack\fundamentals\obj\Debug\net6.0\fundamentals.csproj.CoreCompileInputs.cache
+C:\Users\coding\C# stack\fundamentals\obj\Debug\net6.0\fundamentals.dll
+C:\Users\coding\C# stack\fundamentals\obj\Debug\net6.0\refint\fundamentals.dll
+C:\Users\coding\C# stack\fundamentals\obj\Debug\net6.0\fundamentals.pdb
+C:\Users\coding\C# stack\fundamentals\obj\Debug\net6.0\fundamentals.genruntimeconfig.cache
+C:\Users\coding\C# stack\fundamentals\obj\Debug\net6.0\ref\fundamentals.dll
